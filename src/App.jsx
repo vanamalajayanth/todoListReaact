@@ -111,7 +111,6 @@ class Tasks extends Component {
           style={{
             backgroundColor: "grey",
             height: "fit-content",
-            height: "fit-content",
             width: "500px",
           }}
           key={task.id}
